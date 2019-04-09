@@ -1,0 +1,153 @@
+000111222333444555
+000111222333444555
+000111222333444555
+
+2)
+ 1 2 3 4 5 6 7 8 9 10
+ 2 4 6 8 
+ 3 6 9
+
+
+
+
+
+ 10 20 30 40 ......
+
+3)whether a given number is perfect square or not 
+
+6)square root funstions 
+
+
+4)to perform calculate the simple intrest of three banks a, b, c . using meathods .
+bank a , b, c rate of intrest is 10 , 9 , 7  respectively , calculate si for a given input and
+specify a suitable bank to be intrested
+
+5)perform stack operations using functions 
+
+7) n sale in a day 
+name of the person
+item purchased
+no of quantity purchased
+price of single unit
+total amount for each purchase
+end of each day the owner calculates cumulative total of sales made the max and min 
+amount of sales made . 
+
+8)student information system
+
+9)  get a string from the user and check the number of vowels and consonents in the string
+
+10)  account no name and balance banking problem using methods and arrays
+
+ 
+
+    
+
+
+
+
+
+
+
+
+
+
+ASSIGNMNET1
+
+1)
+create a class named  circle with data member radius, pi (constant member)
+the member functions are 
+a- To accept the radius from the user
+b- To calc the area of the circle 
+c- to display the details
+
+2)
+Create a class named College with the following data member
+Colg id , Name , School , Course
+
+To accept the details( for n colleges)
+
+TO display the accepted details
+
+3)
+Create two classes DM and DB which stores the values in distances 
+DM stores distance in m and cm 
+DB stores distance in ft and inches
+
+write a program that can read values for the class object and add one object of DM with ANOTHER OBJECT OF DB
+
+Display should b in the format of ft and inches or m and cm
+
+4)
+Assume an integer array of size 10
+insert values in it
+write a function to delete the 5th value
+and shift the values from 6th to 10th by one place towards left
+Display the entire array
+
+5)
+Write a program to convert the decimal integer to any of the following 
+1. binary 
+2. octal
+3. hexa decimal  Use switch case and  function for the conversions
+
+
+sql lite
+
+
+
+read and write in ruby
+file.new(“tempfile.txt”,”w”)
+file.rename(“temple.txt”,”new file.txt”)
+File.delete(“new
+
+
+
+
+Assignment-2
+1)
+
+A supermarket requires a automated program to print the expenses,
+quantity and price per item are the inputs
+expense=
+and discount of 10 percent is offered if the expense is more than 5000
+automate the above scenario using program.
+
+2)
+
+Mr.x goes to a dietician for consulting. the dieticians calculates the bmi using the formula 
+bmi=weight/(heights)square
+if bmi >25 
+then mr.x is obese 
+else he is healthy
+write a program depict the scenario with displaying a msg obese or healthy
+
+3)
+
+our institute has decided to inc the number of seats from 120 t0 180 for the upcoming year 
+further they have also decided to increase the same number of seats every year subsequently
+find out how many students will b there from n years from now
+
+120,180,240…..n
+
+
+4)
+a restaurant served 72 men 84 women and 49 children on friday night
+on saturday night they served 86 men , 72 women and 46 children
+express in 2d array
+using array find total number of men women and children served over the friday to saturday period 
+
+5)
+create a csv file to specify data on students given below
+
+roll number, name, dept, course, year of joining,
+assuming that there are not more than 10 students in the cold
+
+A)to print name of all students who joined in a particular year
+B)print the data of a student whose roll number is as given
+
+6)
+write a program that will read line from a file and calculate the number of occurences of the word “the”
+
+7)
+write a program to count of number of occurrences of any two vowels in succession 

@@ -1,0 +1,24 @@
+ create 3 tables
+ 1st country
+    country code
+    capital
+    life experntncy
+    population
+    surface area
+    name
+
+2nd city 
+    primary key id
+    foreign key country code
+    district
+    name
+    population
+3 rd country language
+    primary key country code
+    language
+
+city id find out the name of the city the district the country code 
+capital population language spoken and the percentage of the people who speaks the language
+
+
+

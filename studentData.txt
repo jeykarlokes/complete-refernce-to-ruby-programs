@@ -1,0 +1,11 @@
+RollNo,Name,Department,Course,YearOfJoin
+1,Harish,CSE,Ruby,2015
+2,Yeshwanth,CSE,Machine Learning,2015
+3,Balaji,CSE,AI,2017
+4,Lokesh Jaikar,CSE,Data Science,2015
+5,Sudarshan,Science,Biotechnology,2016
+6,Prasanth,Spiritual,Yoga,2017
+7,Naveen,Psychology,Lie Detection,2016
+8,Vinith,Physiology,Bones,2017
+9,Vikas,Dermatology,Foundations,2018
+10,Velmurugan,Buisness,HRM,2017

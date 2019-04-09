@@ -1,0 +1,7 @@
+Apoorva super market requires...an automated program to print expenses..quantity and price per item are the inputs and discount of 10% is offered if the expense is more than rupees ₹5000. Automate the above scenario using Ruby
+Mr. X goes to a dietician for consulting. The dietician calculates the BMI using the formula BMI=Weight/Height^2. If bmi > 25, he is obese..else he is healthy..Write a program to depict the above scenario with displaying the message obese or healthy
+Our institute has decided to increase seats from 120 to 180 for the upcoming year. Further they have also decided to increase the same number of seats every year subsequently. Find out totally how many students will be there after n years from now
+A restaurant served 72 men, 84 women and 49 children on friday night. On Saturday night, they served 86 men, 72 women and 46 children. Express this information in a two dimensional array. Using this array, find the total number of men, women and children served over the Friday to Saturday period.
+Create a csv file to specify data on students given below. RollNo, Name, Department, Course, YearOfJoin. Assuming that there are not more than 10 students in the college. Perform a) to print names of all students who joined in a particular year. b) print the data of a student whose roll number is as given.
+Write a program that will read line and calculate the number occurences of the word 'the'.
+Write a program to count the number of occurences of any two vowels in succession. ex: please 'ea'

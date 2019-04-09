@@ -1,0 +1,6 @@
+1)
+create a class named  circle with data member radius, pi (constant member)
+the member functions are 
+a- To accept the radius from the user
+b- To calc the area of the circle 
+c- to display the details
